@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# macOS/iOS backup files
+*.bak
+
+# Node (just in case you expand)
+node_modules/
